@@ -43,3 +43,6 @@ Semantic UI Theme       |Bootstrap Theme
 :-------------------------:|:-------------------------:
 ![](images/semantic.gif)  |  ![](images/bootstrap.gif)
 
+
+##License
+This script is licensed under the MIT License. 
