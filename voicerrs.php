@@ -1,6 +1,6 @@
 <?php
-    $mashape_key = 'MASHAPE_KEY';
-    $voicerrs_key = 'VOICE_RSS_KEY';
+    $mashape_key = 'dvb705DeAomshJYj7vjwDwPgzYesp1vgNjEjsnvJYJa2sygFsm';
+    $voicerrs_key = '7d8473256c7c4ce9bb0697a79e7a6fd6';
 
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
