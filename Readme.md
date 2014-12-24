@@ -1,6 +1,5 @@
-# Unknown Exception's Koding Hackathon's Submission
-
-### Terms.JS - A solution that's both informative to the user and safe to the content creator
+# Terms.JS 
+### A solution that's both informative to the user and safe to the content creator
 ## Description
 
 As a web developer, I've had to scrape together Terms and Agreements in the past when a lawyer wasn't available. As someone who's been on both sides of the fence, I've found the user's perspective to be particularly frustrating cause 75% of the Terms and Agreements is often common sense or irrelevant to the user!
